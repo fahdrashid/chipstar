@@ -1,0 +1,189 @@
+
+
+.linear {
+  background: linear-gradient(to right, #0c0c0c, #230e0e);
+}
+
+.linearsecond {
+  background: linear-gradient(to right, #0c0707, #112418);
+}
+
+.linearthird {
+  background: linear-gradient(to right, #0c0707, #352c11);
+}
+
+.linearfour {
+  position: inherit;
+  z-index: 1;
+  // background: linear-gradient(to left, #924FE7, #6725BB);
+  border-radius: 20px;
+
+margin-left: 33px;
+    margin-right: 46px;
+    margin-top: 40px;
+    margin-bottom: -22px;
+}
+
+.blur{
+  z-index: 0;
+  background: rgba(135, 76, 232, 0.56);
+filter: blur(35px);
+  position: absolute;
+  margin-left: 250px;
+    margin-right: 90px;
+}
+.heading{
+
+position:absolute;
+width: 254px;
+height: 37px;
+margin-left: 33px;
+margin-top: 39px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 40px;
+/* or 125% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.smallheading{
+
+margin-left: 33px;
+
+margin-top: 81px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #41E8C2;
+}
+
+.innerheading{
+position: absolute;
+margin-left: 25px;
+margin-top: 1px;
+// bottom: 75.24%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 40px;
+/* or 167% */
+
+
+color: #FFFFFF;
+
+
+}
+
+
+.innersmallheading{
+
+
+position: absolute;
+margin-left: 25px;
+margin-top: 50px;
+margin-bottom: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400px;
+font-size: 12px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #FFFFFF;
+
+  
+
+  
+  
+  }
+
+.effect {
+  font-weight: bold;
+
+  color:#F3BA2F;
+  margin-left: 3px;
+
+}
+.bar{
+
+  position: absolute;
+  margin-top: -1px ;
+    margin-left: 120px;
+    z-index: 3;
+
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 8px;
+line-height: 14px;
+
+
+
+color: #FFFFFF;
+
+
+}
+.button {
+  position: absolute;
+    margin-left: 240px;
+    margin-top: 50px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: small ;
+}
+
+.para{
+position: absolute;
+width: 403px;
+height: 168px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 24px;
+/* or 150% */
+
+
+color: #FFFFFF;
+
+}
+
+.list {
+  margin-top: -5px;
+  font-weight: 200;
+  position: absolute;
+width: 403px;
+height: 168px;
+font-size: 13px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+line-height: 24px;
+
+color: #FFFFFF;
+  
+}

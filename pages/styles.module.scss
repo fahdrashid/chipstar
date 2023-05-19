@@ -1,0 +1,21 @@
+
+
+.container{
+  height: 100%;
+  margin: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 530px;
+  // justify-content: center;
+  // align-items: center;
+  }
+
+  .fullPage {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    // background-color: grey;
+  }
